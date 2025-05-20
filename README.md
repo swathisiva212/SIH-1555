@@ -37,18 +37,31 @@ A teacher uses the app in classrooms with 3D plant visualizations.
 ## Proposed Architecture Diagram:
 
 User Device
+
    ↓
+   
 Frontend (React.js / Flutter)
+
    ↓
+   
 3D Engine (Three.js / Unity WebGL)
+
    ↓
+   
 Backend (Node.js / Flask) — REST or GraphQL API
+
    ↓
+   
 Database (MongoDB or PostgreSQL)
+
    ↓
+   
 Media Storage (AWS S3 / Firebase)
+
    ↓
+   
 CMS (Strapi / Sanity)
+
    ↓
 Authentication (Firebase Auth / Auth0)
 ## Technology Stack
