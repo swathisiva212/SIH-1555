@@ -11,43 +11,8 @@ Background: The AYUSH sector relies heavily on medicinal plants and herbs, which
 Ministry of AYUSH
 
 ## Idea
-Interactive 3D Models
 
-View detailed 3D representations of medicinal plants.
-
-Rotate, zoom, and explore in real-time (using Three.js or Unity WebGL).
-
-Detailed Plant Information
-
-Botanical name, habitat, cultivation methods.
-
-Common uses in traditional AYUSH systems.
-
-Multimedia Integration
-
-High-resolution images.
-
-Video demonstrations of uses/cultivation.
-
-Audio guides and TTS narration.
-
-Search & Filter Options
-
-Search by name, region, use-case (e.g., digestion, immunity).
-
-Filter by type (herb, shrub, tree, etc.).
-
-Thematic Virtual Tours
-
-Curated tours (e.g., “Plants for Immunity”, “Skin Health Essentials”).
-
-User Interaction
-
-Bookmark favorite plants.
-
-Take personal notes.
-
-Share content on social media.
+Create a Virtual Herbal Garden web and mobile application that brings the experience of exploring a herbal garden into the digital space. Users can interact with 3D models of plants, learn about their medicinal benefits, and navigate themed virtual tours. The application promotes traditional AYUSH knowledge using immersive technology, supporting both educational and awareness goals
 
 ## Expected Outcome
 A cross-platform Virtual Herbal Garden (Web + Mobile) that:
