@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:20.05.2025
+## Register Number:212223040219
+## Name:swathi s
 ## Problem Title
 Virtual Herbal Garden for AYUSH Education & Awareness
 
